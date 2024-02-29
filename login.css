@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@200&display=swap');
+
+
+.header_1 {
+    display: flex;
+    margin: 30px 0 0 86px;
+    font-weight: bold;
+    font-family: 'Archivo', sans-serif;
+}
+
+#back img {
+    width: 40px;
+    rotate: 180deg;
+    position: relative;
+    top: 15px;
+}
+
+#back {
+    margin-left: 220px;
+}
+
+#back a {
+    text-decoration: none;
+    color: #918c8c;
+}
+
+#page {
+    background: rgb(243, 237, 229);
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-family: 'Archivo', sans-serif;
+}
+
+.main {
+    margin: 30px 0 0 86px;
+    font-family: 'Archivo', sans-serif;
+}
+
+.main h1 {
+    font-size: 36px;
+    max-width: 443px;
+    font-weight: bold;
+}
+
+.main label {
+    display: block;
+    margin: 20px 0 10px;
+    font-size: 18px;
+}
+
+#Username, #Password_1 {
+    padding: 13px 276px 13px 0;
+}
+
+#login {
+    display: block;
+    margin: 30px 0 15px;
+    padding: 13px 200px;
+    background: black;
+    color: white;
+    font-size: 18px;
+    font-family: 'Archivo', sans-serif;
+}
+
+#login:hover {
+    color: orange;
+    cursor: pointer;
+}
+
+
+.main p a {
+    color: #00a8ff;
+}
+
+#text-1 {
+    margin: 30%;
+}
+
+#text-1 h1 {
+    font-size: 36px;
+    max-width: 355px;
+    font-weight: bold;
+}
+
+#sub-text {
+    color: grey;
+}
+
+#name {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+
+#eae {
+    display: inline-block;
+}

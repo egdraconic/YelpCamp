@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@200&display=swap');
+
+.body {
+    background: rgb(243, 237, 229);
+    font-family: 'Archivo', sans-serif;
+}
+
+#E-mail, #password, #comfirm_M, #Username {
+    display: block;
+    padding: 13px 276px 13px 0;
+}
+
+#inpusts {
+    position: relative;
+    left: 352px;
+    display: inline-block;
+    border: 2px solid white;
+    background: white;
+    padding: 20px;
+    border-radius: 18px;
+}
+
+#inpusts div {
+    margin-top: 20px; 
+}
+
+#create_1 input {
+    padding: 13px 138px 13px 138px;
+    margin: 55px 15px;
+    background: black;
+    color: white;
+    font-size: 20px;
+}
+
+#create:hover {
+    color: orange;
+    cursor: pointer;
+}
+
+#Back {
+    position: absolute;
+    top: 45px;
+    right: 30px;
+    text-decoration: none;
+    color: #918c8c;
+}
+
+#create {
+    font-family: 'Archivo', sans-serif;
+}
+
+#arrows {
+    width: 40px;
+    rotate: 180deg;
+    position: relative;
+    top: 15px;
+    right: -135px;
+}

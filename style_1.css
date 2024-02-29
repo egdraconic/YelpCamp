@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@200&display=swap');
+
+body {
+    background: rgb(243, 237, 229);
+}
+
+header img {
+    margin: 75px 0 0 85px;
+}
+
+#image_1{
+    position: absolute;
+    right: 0;
+    top: 0;
+    min-height: 657px;
+    min-width: 652px;
+    max-height: 100vh;
+}
+
+
+#check_1, #check_2, #check_3 {
+    display: flex;
+}
+
+main {
+    margin-left: 82px;
+    font-family: 'Archivo', sans-serif;
+}
+
+#text_1 {
+    max-width: 445px;
+    margin-bottom: 30px;
+}
+
+#check_1 {
+    margin: 20px 0;
+}
+
+#check_2 {
+    margin: 20px 0;
+}
+
+#view_1 {
+    border: 2px black solid;
+    border-radius: 8px;
+    display: inline;
+    background: black;
+    color: white;
+    padding: 15px 18px;
+    text-decoration: none;
+}
+
+
+#part {
+    margin-top: 40px;
+    font-size: 18px;
+}
+
+#air {
+    width: 165px;
+}
+
+#book {
+    width: 165px;
+    margin-bottom: 15px;
+}
+
+#plum {
+    width: 165px;
+    margin-bottom: 17px;
+}
+
+#Explore {
+    max-width: 445px;
+    font-size: 36px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+
+#Explore_c {
+    font-size: 19px;
+}
