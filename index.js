@@ -338,7 +338,7 @@ if (document.getElementById("body_3") != null) {
         }
 
         if (localStorage.conta != 0) {
-            window.open("https://egdraconic.github.io/Mount Ulap/camp.html");
+            window.open("https://egdraconic.github.io/YelpCamp/comment.html");
         }
 
         document.getElementById("Ok").addEventListener("click", clicado_2)
