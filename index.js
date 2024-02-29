@@ -622,7 +622,7 @@ if (document.getElementById("body_4") != null) {
                 localStorage.user3 = localStorage.accents4
             }
         }
-        window.open("https://egdraconic.github.io/Mount Ulap/camp.html");
+        window.open("https://egdraconic.github.io/YelpCamp/camp.html");
     }
     }
     
